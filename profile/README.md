@@ -1,6 +1,6 @@
 ## AI4PEX
 
-![ai4pexlogo](https://github.com/AI4PEX/Housekeeping/blob/55f714faedbeb9ef0cae91facac5ac0edb617be7/Images/ai4pex-logo-med.png)
+![ai4pexlogo](https://github.com/AI4PEX/Housekeeping/blob/76183e971a5ccb03c77afb86ecc31d1af41e046a/Images/ai4pex-logo-small.png)
 
 Welcome to the new HorizonEU project AI4PEX!
 
