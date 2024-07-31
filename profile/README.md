@@ -21,5 +21,5 @@ or send an email to <AI4PEX_newsletter-request@lists.mpg.de> with the word 'subs
 
 ### Contacts
 
-- [Nicole](nboerner@bgc-jena.mpg.de) and [Nuno](ncarvalhais@bgc-jena.mpg.de) know everything about the project
-- [V](valeriu.predoi@ncas.ac.uk) knows the Github stuff here
+- Nicole <nboerner@bgc-jena.mpg.de> and Nuno <ncarvalhais@bgc-jena.mpg.de> know everything about the project
+- V <valeriu.predoi@ncas.ac.uk> knows the Github stuff here
