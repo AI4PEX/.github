@@ -1,4 +1,5 @@
 ## AI4PEX
+### (Artificial Intelligence and Machine Learning for Enhanced Representation of Processes and Extremes in Earth System Models)
 
 ![ai4pexlogo](https://github.com/AI4PEX/Housekeeping/blob/76183e971a5ccb03c77afb86ecc31d1af41e046a/Images/ai4pex-logo-small.png)
 
