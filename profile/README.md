@@ -19,6 +19,10 @@ Sign up to our newsletter and stay up to date with our latest research.
 Subscribe to the AI4PEX-newsletter here: <https://listserv.gwdg.de/mailman/listinfo/ai4pex_newsletter>
 or send an email to <AI4PEX_newsletter-request@lists.mpg.de> with the word 'subscribe' in the subject.
 
+### Data Questionnaire
+
+We have prepared a [data questionnaire](https://forms.gle/HyDK1yBBSGJxXkaA8) for the AI4PEX members, and it'd be great if you could fill it out! Cheers muchly from the project organizers 🍺🍺
+
 ### Contacts
 
 - Nicole <nboerner@bgc-jena.mpg.de> and Nuno <ncarvalhais@bgc-jena.mpg.de> know everything about the project
