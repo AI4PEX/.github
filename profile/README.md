@@ -25,5 +25,6 @@ We have prepared a [data questionnaire](https://forms.gle/HyDK1yBBSGJxXkaA8) for
 
 ### Contacts
 
-- Nicole <nboerner@bgc-jena.mpg.de> and Nuno <ncarvalhais@bgc-jena.mpg.de> know everything about the project
-- V <valeriu.predoi@ncas.ac.uk> knows the Github stuff here
+- [Nicole](https://github.com/NicoleBoerner) <nboerner@bgc-jena.mpg.de> and Nuno <ncarvalhais@bgc-jena.mpg.de> know everything about the project
+- [V](https://github.com/valeriupredoi) <valeriu.predoi@ncas.ac.uk> knows the Github stuff here
+- [Sujan](https://github.com/dr-ko) <skoirala@bgc-jena.mpg.de> is equally GitHub-savvy
